@@ -1,4 +1,4 @@
-//4.Write a program in C to display the multiplication table of 1 to n where n is input number.
+//4.WAP in C to display the multiplication table of 1 to n where n is input number.
 #include <stdio.h>
 
 int main() {
